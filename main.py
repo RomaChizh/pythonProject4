@@ -8,7 +8,6 @@ from kivy.uix.anchorlayout import AnchorLayout
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.widget import Widget
-from kivy.uix.textinput import TextInput
 
 Config.set('graphics', 'width', '360')
 Config.set('graphics', 'height', '800')
